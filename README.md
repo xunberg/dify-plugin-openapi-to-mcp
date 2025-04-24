@@ -1,6 +1,6 @@
 ## openapi_to_mcp
 
-**Author:** burgxun
+**Author:** xunberg
 **Version:** 0.0.1
 **Type:** extension
 
