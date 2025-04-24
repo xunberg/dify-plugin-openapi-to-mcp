@@ -1,0 +1,15 @@
+settings:
+  - name: openapi_schema
+    type: text-input
+    required: true
+    label:
+      en_US: OpenAPI Schema
+      zh_Hans: OpenAPI Schema
+      pt_BR: OpenAPI Schema
+    placeholder:
+      en_US: Please input your OpenAPI Schema Schema or OpenAPI URL
+      zh_Hans: 请输入你的 OpenAPI JSON Schema or OpenAPI URL
+      pt_BR: PPlease input your OpenAPI Schema Schema or OpenAPI URL
+endpoints:
+  - endpoints/messages.yaml
+  - endpoints/sse.yaml
